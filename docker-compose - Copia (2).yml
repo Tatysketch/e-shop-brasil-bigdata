@@ -1,0 +1,24 @@
+version: '3.8'
+services:
+  mongodb_eshop:
+    image: mongo:latest
+    container_name: mongodb_eshop
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: admin
+      MONGO_INITDB_ROOT_PASSWORD: senha_secreta123
+    volumes:
+      - mongo_data:/data/db
+
+  data_importer: # NOVO SERVIÇO AQUI!
+    image: python:3.9-slim-buster # Uma imagem Docker com Python
+    container_name: data_importer_service
+    depends_on:
+      - mongodb_eshop # Garante que o MongoDB inicie primeiro
+    working_dir: /app # Define um diretório de trabalho dentro do contêiner
+    volumes:
+      - .:/app # Mapeia sua pasta atual do projeto (onde está import_data.py) para /app no contêiner
+
+volumes:
+  mongo_data:
