@@ -61,35 +61,30 @@ Certifique-se de ter as seguintes ferramentas instaladas em seu sistema:
     ```bash
     streamlit run app.py
     ```
-    A aplicação será aberta automaticamente em seu navegador padrão
-🖼️ Exemplos Visuais da Aplicação
+    
+  🖼️ Exemplos Visuais da Aplicação
 Abaixo estão capturas de tela que demonstram o funcionamento da aplicação, organizadas na ordem do fluxo de uso:
 🔹 1. Cadastro de Produto
 📂 exemplos/cadastro/01_formulario_produto_preenchido.png
 Cadastro de Produto
-
 🔹 2. Cadastro de Cliente
 📂 exemplos/cadastro/04_adicionar_cliente_interface.png
 Cadastro de Cliente
-
 🔹 3. Visualização de Produtos
 📂 exemplos/visualizacao/01_produtos_cadastrados_dashboards.png
 Produtos Cadastrados
-
 🔹 4. Visualização de Clientes
 📂 exemplos/visualizacao/02_clientes_ativos.png
 Clientes Ativos
-
 🔹 5. Adicionar Pedido
 📂 exemplos/pedidos/01_tela_adicionar_pedido_ativa.png
 Adicionar Pedido
-
 🔹 6. Visualização de Pedidos Realizados
 📂 exemplos/pedidos/02_resumo_pedido_completo.png
 Resumo de Pedido
 
-✅ Organização Interna dos Prints
-Os prints estão organizados em subpastas dentro da pasta exemplos/, conforme a funcionalidade:
+
+
 
 
 
