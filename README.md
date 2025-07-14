@@ -101,6 +101,9 @@ exemplos/
 └── 03_pedidos/
     ├── 01_tela_adicionar_pedido_ativa.png
     └── 02_resumo_pedido_completo.png
+
+
+    
 👩‍💻 Autora
 Desenvolvido por Tatielle Pereira, 26 anos, estudante da UNIFECAF.
 Este projeto foi criado como parte prática do curso Advanced Databases and Big Data, representando o compromisso em aplicar conceitos modernos de tecnologia de forma acessível, funcional e didática.
