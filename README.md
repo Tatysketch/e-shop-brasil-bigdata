@@ -91,16 +91,7 @@ Resumo de Pedido
 ✅ Organização Interna dos Prints
 Os prints estão organizados em subpastas dentro da pasta exemplos/, conforme a funcionalidade:
 
-exemplos/
-├── 01_cadastro/
-│   ├── 01_formulario_produto_preenchido.png
-│   └── 04_adicionar_cliente_interface.png
-├── 02_visualizacao/
-│   ├── 01_produtos_cadastrados_dashboards.png
-│   └── 02_clientes_ativos.png
-└── 03_pedidos/
-    ├── 01_tela_adicionar_pedido_ativa.png
-    └── 02_resumo_pedido_completo.png
+
 
 
     
