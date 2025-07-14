@@ -99,6 +99,7 @@ exemplos/
 │   ├── produtos_lista.png
 │   └── clientes_lista.png
 ├── pedidos/
-│   ├── adicionar_pedido.png
-│   └── resumo_pedido.png
+    ├── adicionar_pedido.png
+    └── resumo_pedido.png
+
 
