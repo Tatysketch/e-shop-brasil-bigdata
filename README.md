@@ -88,18 +88,19 @@ Adicionar Pedido
 📂 exemplos/pedidos/02_resumo_pedido_completo.png
 Resumo de Pedido
 
-✅ Organização Interna dos Prints
-Os prints estão organizados em subpastas dentro da pasta exemplos/, conforme a funcionalidade:
+### ✅ Organização Interna dos Prints
+
+Os prints estão organizados em subpastas dentro da pasta `exemplos/`, conforme a funcionalidade:
 
 exemplos/
 ├── cadastro/
-│   ├── produto_form.png
-│   └── cliente_form.png
+│ ├── produto_form.png
+│ └── cliente_form.png
 ├── visualizacao/
-│   ├── produtos_lista.png
-│   └── clientes_lista.png
+│ ├── produtos_lista.png
+│ └── clientes_lista.png
 ├── pedidos/
-    ├── adicionar_pedido.png
-    └── resumo_pedido.png
+│ ├── adicionar_pedido.png
+│ └── resumo_pedido.png
 
 
