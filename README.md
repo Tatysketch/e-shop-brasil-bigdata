@@ -118,10 +118,17 @@ exemplos/
         resumo_pedido.png
 ```
 
-👩‍💻 Sou Tatielle Pereira
-Estudante da disciplina Advanced Database and Big Data
-na faculdade Unifecaf 🚀💙
+---
 
-📚 Este estudo de caso foi uma ótima oportunidade
-para mergulhar no universo do Big Data e bancos de dados. 🚀
+👩‍💻 **Sou Tatielle Pereira**  
+Estudante da disciplina **Advanced Database and Big Data**  
+na faculdade **Unifecaf** 🚀💙  
+
+---
+
+📚 Este estudo de caso foi uma ótima oportunidade  
+para mergulhar no universo do **Big Data** e **bancos de dados**. 🚀
+
+---
+
 
