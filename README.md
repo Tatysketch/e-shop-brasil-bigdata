@@ -93,14 +93,14 @@ Resumo de Pedido
 Os prints estão organizados em subpastas dentro da pasta `exemplos/`, conforme a funcionalidade:
 
 exemplos/
-├── cadastro/
-│ ├── produto_form.png
-│ └── cliente_form.png
-├── visualizacao/
-│ ├── produtos_lista.png
-│ └── clientes_lista.png
-├── pedidos/
-│ ├── adicionar_pedido.png
-│ └── resumo_pedido.png
+    cadastro/
+        produto_form.png
+        cliente_form.png
+    visualizacao/
+        produtos_lista.png
+        clientes_lista.png
+    pedidos/
+        adicionar_pedido.png
+        resumo_pedido.png
 
 
